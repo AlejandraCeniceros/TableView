@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D302EC5270685DC00F51EE1 /* ListaAlumnosController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D302EC4270685DC00F51EE1 /* ListaAlumnosController.swift */; };
 		3DC720032703DA3800BAB4ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC720022703DA3800BAB4ED /* AppDelegate.swift */; };
 		3DC720052703DA3800BAB4ED /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC720042703DA3800BAB4ED /* SceneDelegate.swift */; };
 		3DC720072703DA3800BAB4ED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC720062703DA3800BAB4ED /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D302EC4270685DC00F51EE1 /* ListaAlumnosController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListaAlumnosController.swift; sourceTree = "<group>"; };
 		3DC71FFF2703DA3800BAB4ED /* 09.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 09.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DC720022703DA3800BAB4ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DC720042703DA3800BAB4ED /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				3DC7200D2703DA3D00BAB4ED /* LaunchScreen.storyboard */,
 				3DC720102703DA3E00BAB4ED /* Info.plist */,
 				3DC720322703E5D900BAB4ED /* CeldaAlumnoController.swift */,
+				3D302EC4270685DC00F51EE1 /* ListaAlumnosController.swift */,
 			);
 			path = 09;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DC720072703DA3800BAB4ED /* ViewController.swift in Sources */,
+				3D302EC5270685DC00F51EE1 /* ListaAlumnosController.swift in Sources */,
 				3DC720032703DA3800BAB4ED /* AppDelegate.swift in Sources */,
 				3DC720052703DA3800BAB4ED /* SceneDelegate.swift in Sources */,
 				3DC720332703E5D900BAB4ED /* CeldaAlumnoController.swift in Sources */,
